@@ -1,1 +1,2 @@
-Hello how tr u
+Hello how tr u 
+and what about {% url '' slug=object.slug %}
