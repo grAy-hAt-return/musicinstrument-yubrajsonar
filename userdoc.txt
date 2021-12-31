@@ -1,0 +1,16 @@
+Project template : 
+    Music shop and can be used by other Retailers.
+
+Color used in Projects:
+    paragraph text color : black
+    Navbar color : #a0047d
+    Navbar text color : white 
+
+font used in projects:
+    Paragraph font : sans serif
+    Navbar font : georgia
+    all heading h1 : cambell
+    
+
+
+
